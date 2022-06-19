@@ -1,11 +1,10 @@
 import React from "react";
 
+
 const App = () => {
     return (
-        <div>
-            <h1>tailwaind</h1>
-            <h2>Css</h2>
-        </div>
+        <h1>j</h1>
+        <h2>J</h2>
     )
 }
 export default App
